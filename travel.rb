@@ -15,8 +15,6 @@ end
 
 
 def trip(who:[], visiting:nil, dest:nil)
-  puts who.inspect
-  puts who.first.location.inspect
   start = who.first.location
 
   if dest.nil?
@@ -39,7 +37,10 @@ def trip(who:[], visiting:nil, dest:nil)
   }
   #&mode=bicycling
 
-
+  who.each { |w|
+    w.location = dest
+  }
+  
   return
   
   directions = Directions.new.directions(opts)
