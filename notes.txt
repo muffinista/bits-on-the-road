@@ -1,0 +1,29 @@
+5-6 Actors - narrator, some random people
+
+- Start in a random location, or New York?
+- Choose a place to go
+- Choose a reason to go
+  - visit friend/actor
+  - concert/art/etc
+  - job?
+- choose mode of travel
+- get there
+- go to event/work/etc
+- have conversation?
+- meet someone
+
+Someone is a poet -- poem generator?
+
+Feelings
+Different Concerts/Music Types
+Job generator
+
+Different feelings/motivations, etc
+
+Go on a trip to find a parent, friend, etc -- neal is trying to find
+someone
+
+Actor
+Location
+Feeling
+
